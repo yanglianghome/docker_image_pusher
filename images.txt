@@ -1,1 +1,2 @@
 nginx:1.26.1
+snowdreamtech/frps:0.58.0
