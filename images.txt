@@ -1,3 +1,1 @@
-mariadb:10.6
-kodcloud/kodbox
-redis:alpine
+openjdk:1.8-jdk
