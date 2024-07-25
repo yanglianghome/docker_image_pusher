@@ -1,5 +1,4 @@
 gitlab/gitlab-ce:16.10.3-ce.0
-gitlab-runner-jdk17:1.0.0
 mariadb:10.6
 kodcloud/kodbox
 redis:alpine
