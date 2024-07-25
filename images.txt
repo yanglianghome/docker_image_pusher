@@ -1,1 +1,1 @@
-openjdk:1.8-jdk
+openjdk:8-jdk
