@@ -1,1 +1,15 @@
-openjdk:17-jdk
+mysql:8.0.32
+mysql:5.5
+mysql:5.7.42
+redis:7.0.15
+snowdreamtech/frpc:0.58.0
+privoce/vocechat-server:latest
+minio/minio
+hub.zentao.net/app/zentao:18.12
+registry:2.8.2
+joxit/docker-registry-ui:main
+gitlab/gitlab-ce:16.10.3-ce.0
+gitlab-runner-jdk17:1.0.0
+mariadb:10.6
+kodcloud/kodbox
+redis:alpine
