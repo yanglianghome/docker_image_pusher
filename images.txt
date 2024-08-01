@@ -1,10 +1,5 @@
-bestwu/ewomail
-privoce/vocechat-server:latest
-rabbitmq:3.9.29-management
-ollama/ollama
-mariadb:10.11
-memcached:1.6.18
-seafileltd/seafile-mc:11.0-latest
-onething1/wxedge:latest
-nacos/nacos-server
-consul:1.15.4
+mariadb:10.6
+mariadb:10
+kodcloud/kodbox
+redis:alpine
+mailcow/mailcow_docker:latest
