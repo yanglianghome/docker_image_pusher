@@ -1,5 +1,1 @@
-mariadb:10.6
-mariadb:10
-kodcloud/kodbox
-redis:alpine
-mailcow/mailcow_docker:latest
+mindsdb/mindsdb
