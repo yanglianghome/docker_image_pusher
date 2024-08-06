@@ -1,1 +1,1 @@
-openproject/openproject:14
+docker.io/bitnami/redmine:5
