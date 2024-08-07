@@ -1,1 +1,1 @@
-docker.io/bitnami/redmine:5
+redmine:latest
