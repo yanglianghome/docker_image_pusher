@@ -1,1 +1,2 @@
-postgres:14.0
+wurstmeister/zookeeper
+wurstmeister/kafka
