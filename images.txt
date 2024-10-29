@@ -1,1 +1,1 @@
-mysql:8.0.30
+jumpserver/jms_all:v3.10.10
