@@ -1,1 +1,1 @@
-jumpserver/jms_all:v4.3.0
+camunda/camunda-bpm-platform:7.22.0
