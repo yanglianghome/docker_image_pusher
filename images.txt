@@ -1,1 +1,1 @@
-openspug/spug-service
+tp4a/tacport:latest
