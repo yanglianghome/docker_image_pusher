@@ -1,2 +1,2 @@
-guacamole/guacamole:1.5.4
-guacamole/guacd:1.5.4
+lscr.io/linuxserver/wps-office:chinese
+lscr.io/linuxserver/wps-office:chinese-2025-01-03-ls91
