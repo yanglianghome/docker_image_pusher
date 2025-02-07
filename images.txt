@@ -1,1 +1,1 @@
-dockurr/windows:latest
+ollama/ollama:0.5.8-rc10
