@@ -1,1 +1,1 @@
-privoce/vocechat-server:v0.4.0
+minio/minio:RELEASE.2025-02-03T21-03-04Z
