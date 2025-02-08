@@ -1,1 +1,1 @@
-ollama/ollama:0.5.8-rc10
+privoce/vocechat-server:v0.4.0
