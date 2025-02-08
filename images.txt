@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2025-02-03T21-03-04Z
+minio/minio:latest
