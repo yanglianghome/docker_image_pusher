@@ -1,1 +1,1 @@
-minio/minio:latest
+docker pull mongo:8.0.6
