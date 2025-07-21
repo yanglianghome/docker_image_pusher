@@ -1,2 +1,1 @@
-openjdk:25-jdk
-openjdk:7-jdk
+nginx:1.29.0
