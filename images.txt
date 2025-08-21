@@ -1,1 +1,1 @@
-postgres:12.8
+phpmyadmin/phpmyadmin:5
