@@ -1,1 +1,1 @@
-phpmyadmin/phpmyadmin:5
+adminer:5.3.0
