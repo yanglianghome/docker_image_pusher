@@ -1,1 +1,1 @@
-niruix/sshwifty:0.4.0-beta-release
+mysql:5.7.39
