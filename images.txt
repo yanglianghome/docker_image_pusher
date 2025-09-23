@@ -1,1 +1,1 @@
-mysql:5.7.39
+ghcr.io/lukegus/termix:release-1.6.0
