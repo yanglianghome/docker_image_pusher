@@ -1,1 +1,1 @@
-ghcr.io/lukegus/termix:release-1.9.0
+mongo:8.0.17
