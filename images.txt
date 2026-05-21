@@ -1,1 +1,1 @@
-mongo:8.0.17
+rocketmq/rocketmq-all-5.5.0
