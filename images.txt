@@ -1,1 +1,1 @@
-rocketmq/rocketmq-all-5.5.0
+apache/rocketmq:5.5.0
