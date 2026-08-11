@@ -1,1 +1,3 @@
-chaitin/safeline:SafeLine-CE 9.3.11
+snowdreamtech/frps:0.70.1-alpine
+snowdreamtech/frpc:0.70.1-alpine
+
